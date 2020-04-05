@@ -1,0 +1,44 @@
+
+#menu  ul 
+{
+list-style:none;
+}
+#menu  ul li {
+background-color:black;
+border:1px  solid black;
+width:120px;
+height:35px;
+line-height  :35px;
+text-align:center;
+float:left;
+border-radius:8px;
+}
+#menu ul a{
+color:white;
+text0decoraction:none;
+display:block;
+}
+#menu ul li a:hover{
+background-color:yellow;border-radius:8px;
+}
+
+
+body {
+background-color:MediumSeaGreen;font-family:vardana;font-weight:normal;
+}
+
+h1{color:#8A0808;text-decoration:underline ;}
+h6.header1{color:red;}
+h6{color:#0B0B3B;}
+p.para1{color:#8A0829}
+h5{color:red;font-family:vardana;font-weight:normal}
+p.para2{color:red;font-family:vardana;font-weight:normal}
+p.para3{color:blue;font-family:vardana:font-weight:lighter}
+
+.form1{color="green";background-color="red";}
+
+
+.para3{
+
+
+}
